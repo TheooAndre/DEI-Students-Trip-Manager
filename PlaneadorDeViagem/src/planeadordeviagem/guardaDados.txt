@@ -1,0 +1,40 @@
+Coimbra -> Toquio -> Guimarães
+Coimbra -> Madrid -> Madeira
+Coimbra -> Madrid -> Luanda
+Toquio -> Coimbra -> Madeira
+Porto -> Coimbra -> Toquio
+Guimarães -> Coimbra -> Toquio
+Amsterdão -> Rio de janeiro -> Coimbra
+Madrid -> Almeirim -> Coimbra
+Luanda -> Rio de janeiro -> Coimbra
+Madeira -> Coimbra -> Lisboa
+Coimbra -> Madrid -> Madeira
+Madrid -> Almeirim -> Coimbra
+Madeira -> Coimbra -> Lisboa
+Toquio -> Coimbra -> Madeira
+Coimbra -> Toquio -> Guimarães
+Guimarães -> Coimbra -> Toquio
+Coimbra -> Madrid -> Luanda
+Amsterdão -> Rio de janeiro -> Coimbra
+Porto -> Coimbra -> Toquio
+Luanda -> Rio de janeiro -> Coimbra
+Coimbra -> Madrid -> Madeira
+Luanda -> Rio de janeiro -> Coimbra
+Porto -> Coimbra -> Toquio
+Coimbra -> Madrid -> Luanda
+Amsterdão -> Rio de janeiro -> Coimbra
+Guimarães -> Coimbra -> Toquio
+Coimbra -> Toquio -> Guimarães
+Toquio -> Coimbra -> Madeira
+Madeira -> Coimbra -> Lisboa
+Madrid -> Almeirim -> Coimbra
+Luanda -> Rio de janeiro -> Coimbra
+Porto -> Coimbra -> Toquio
+Coimbra -> Toquio -> Guimarães
+Coimbra -> Madrid -> Luanda
+Toquio -> Coimbra -> Madeira
+Guimarães -> Coimbra -> Toquio
+Coimbra -> Madrid -> Madeira
+Amsterdão -> Rio de janeiro -> Coimbra
+Madeira -> Coimbra -> Lisboa
+Madrid -> Almeirim -> Coimbra

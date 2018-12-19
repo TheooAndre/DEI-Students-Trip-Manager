@@ -1,0 +1,29 @@
+DIVERSÃO,Almeirim,9,30,19,0,20,1,6,3,0,3,1,true,Pista de Gelo
+CULTURAL,Coimbra,9,30,19,0,20,1,10,5,4,Parque da Sereia
+BAR,Coimbra,22,0,4,0,5,20,3.0,Bar da AAC
+BAR,Coimbra,22,0,4,0,5,22,4.3,NB
+MUSEU,Lisboa,9,30,19,30,20,1,2ª Guerra Mundial,Museu da Guerra
+MUSEU,Madrid,9,0,19,30,20,1,Arte,Museu do Prado
+BAR,Coimbra,22,0,4,0,5,21,2.0,TWIIT
+MUSEU,Guimarães,9,0,19,30,20,1,Arte,Museu da Arte
+BAR,Londres,22,0,4,0,5,21,4.7,National Pub
+CULTURAL,Paris,6,0,23,59,50,4,20,40,20,Torre Eiffel
+MUSEU,Paris,9,0,19,0,35,4,Arte,Museu do louvre
+BAR,Porto,22,0,4,0,5,20,4.7,Hard Rock
+DIVERSÃO,Benidorm,7,0,23,0,30,10,20,10,3,3,1,true,Terra Mítica
+CULTURAL,Coimbra,10,0,19,0,0,2,10,5,4,Parque Verde
+CULTURAL,Paris,0,0,23,59,10,5,0,4,3,Arco Do Triunfo
+CULTURAL,Londres,9,0,19,0,30,40,0,0,2,Big Ben
+MUSEU,Londres,9,0,19,30,25,10,Familia Real,Palácio de Buckingham
+CULTURAL,Madrid,9,0,23,0,0,10,20,10,5,Jardins do Retiro de Madrid
+CULTURAL,Dubai,9,0,23,0,10,0,0,4,0,Dubai Mall
+MUSEU,Dubai,9,0,19,30,25,10,Modo de vida tradicional,Museu de Dubai
+MUSEU,Toquio,9,0,18,30,30,10,Samurais e Ninjas,Kyoto Samurai & Ninja Museum
+MUSEU,Toquio,8,0,17,30,30,10,Arte Ninja,Teshima Art Museum
+BAR,Toquio,23,0,4,0,3,10,4.0,L'Escamoteur Bar
+BAR,Toquio,20,0,5,0,2,20,4.9,The Drunken Clam
+BAR,Guimarães,23,0,4,0,5,15,4.3,Bar Infusões
+BAR,Benidorm,22,0,3,0,5,10,3.7,The Bodhran Irish Bar
+BAR,Benidorm,23,30,5,0,20,40,5.0,Brit's fury
+BAR,Luanda,23,30,6,0,5,3,3.8,Luanda Bar
+BAR,Luanda,22,45,5,0,10,0,2.4,Bar View Talatona
